@@ -42,6 +42,12 @@
 			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/nextcloud.svg"
 		},
 		{
+			"name": "YoutubeDL",
+			"desc": "",
+			"href": "http://ytdl.home.ip",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/youtubedl.svg"
+		},
+		{
 			"name": "Gitea",
 			"desc": "",
 			"href": "https://git.rul.sh",
