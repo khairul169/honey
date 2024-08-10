@@ -1,63 +1,117 @@
 {
 	"ui": {
-		"name": "honey",
+		"name": "Eclair",
 		"desc": "Nice and sweet place for all your self-hosted services.",
 		"icon": "img/icon.png",
 		"wallpaper": "img/background.jpg",
 		"wallpaper_dark": "img/background-dark.jpg",
-		"dark_mode": false,
+		"dark_mode": true,
 		"open_new_tab": false,
 		"blur": true,
 		"animations": true
 	},
 	"services": [
 		{
-			"name": "CalDav",
-			"desc": "Simple CalDav server for calendar sync between various devices.",
-			"href": "caldav",
-			"icon": "img/preview/caldav.png"
+			"name": "Jellyfin",
+			"desc": "",
+			"href": "https://jellyfin.rul.sh/",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/jellyfin.svg"
 		},
 		{
-			"name": "Files",
-			"desc": "Fancy file manager for the web.",
-			"href": "files",
-			"icon": "img/preview/files.png"
+			"name": "NextDeck",
+			"desc": "",
+			"href": "https://cloud.rul.sh/apps/deck/#/board/1",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/nextcloud-deck.svg"
 		},
 		{
-			"name": "Gallery",
-			"desc": "Photo & video gallery syncable with multiple Android devices.",
-			"href": "gallery",
-			"icon": "img/preview/gallery.png"
-		},
-		{
-			"name": "Git",
-			"desc": "Self-hosted, painless, secure place for your repositories.",
-			"href": "git",
-			"icon": "img/preview/git.png"
-		},
-		{
-			"name": "E-Mail",
-			"desc": "Feature-rich, decentralized and secure E-Mail server.",
-			"href": "mail",
-			"icon": "img/preview/mail.png"
-		},
-		{
-			"name": "Music",
-			"desc": "Beautiful, moody music streaming app.",
-			"href": "music",
-			"icon": "img/preview/music.png"
+			"name": "Memos",
+			"desc": "",
+			"href": "https://memos.rul.sh",
+			"icon": "https://memos.rul.sh/apple-touch-icon.png"
 		},
 		{
 			"name": "Notes",
-			"desc": "Sweet & lightweight app for taking notes.",
-			"href": "notes",
-			"icon": "img/preview/notes.png"
+			"desc": "",
+			"href": "https://cloud.rul.sh/apps/notes/",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/nextcloud-notes.svg"
 		},
 		{
-			"name": "Google",
-			"desc": "DON'T CLICK: goes to google.com",
-			"href": "https://google.com",
-			"icon": "img/preview/google.png"
+			"name": "Nextcloud",
+			"desc": "",
+			"href": "https://cloud.rul.sh/",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/nextcloud.svg"
+		},
+		{
+			"name": "Gitea",
+			"desc": "",
+			"href": "https://git.rul.sh",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/gitea.svg"
+		},
+		{
+			"name": "Gotify",
+			"desc": "",
+			"href": "https://gotify.rul.sh",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/gotify.svg"
+		},
+		{
+			"name": "Vaultwarden",
+			"desc": "",
+			"href": "https://vw.rul.sh",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/vaultwarden.svg"
+		},
+		{
+			"name": "Pi-hole",
+			"desc": "",
+			"href": "http://pi.hole/admin",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/pi-hole.svg"
+		},
+		{
+			"name": "Headscale",
+			"desc": "",
+			"href": "https://headscale.rul.sh/web",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/tailscale.svg"
+		},
+		{
+			"name": "Nginx Proxy Manager",
+			"desc": "",
+			"href": "http://nginx-pm.home.ip/",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/nginx-proxy-manager.svg"
+		},
+		{
+			"name": "Nginx UI",
+			"desc": "",
+			"href": "https://nginx-ui.rul.sh/",
+			"icon": "https://nginxui.com/assets/icon.svg"
+		},
+		{
+			"name": "pgAdmin",
+			"desc": "",
+			"href": "http://pgadmin.home.ip/",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/pgadmin.svg"
+		},
+		{
+			"name": "phpMyAdmin",
+			"desc": "",
+			"href": "http://pma.home.ip/",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/phpmyadmin.svg"
+		},
+		{
+			"name": "Mongo Express",
+			"desc": "",
+			"href": "http://home:27018/",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/mongodb.svg"
+		},
+		{
+			"name": "Hoppscotch",
+			"desc": "",
+			"href": "https://hopp.rul.sh/",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/hoppscotch.svg"
+		},
+		{
+			"name": "Portainer",
+			"desc": "",
+			"href": "https://portainer.rul.sh/",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/portainer.svg"
 		}
 	]
 }
