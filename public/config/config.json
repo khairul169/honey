@@ -18,10 +18,10 @@
 			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/jellyfin.svg"
 		},
 		{
-			"name": "NextDeck",
+			"name": "YoutubeDL",
 			"desc": "",
-			"href": "https://cloud.rul.sh/apps/deck/#/board/1",
-			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/nextcloud-deck.svg"
+			"href": "http://ytdl.home.ip",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/youtubedl.svg"
 		},
 		{
 			"name": "Memos",
@@ -36,16 +36,16 @@
 			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/nextcloud-notes.svg"
 		},
 		{
+			"name": "NextDeck",
+			"desc": "",
+			"href": "https://cloud.rul.sh/apps/deck/#/board/1",
+			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/nextcloud-deck.svg"
+		},
+		{
 			"name": "Nextcloud",
 			"desc": "",
 			"href": "https://cloud.rul.sh/",
 			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/nextcloud.svg"
-		},
-		{
-			"name": "YoutubeDL",
-			"desc": "",
-			"href": "http://ytdl.home.ip",
-			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/youtubedl.svg"
 		},
 		{
 			"name": "Gitea",
@@ -118,6 +118,12 @@
 			"desc": "",
 			"href": "https://portainer.rul.sh/",
 			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/portainer.svg"
+		},
+		{
+			"name": "Cockpit",
+			"desc": "",
+			"href": "https://cockpit.local.rul.sh/",
+			"icon": "https://cockpit-project.org/images/favicon.png"
 		}
 	]
 }
