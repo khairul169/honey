@@ -60,6 +60,12 @@
 			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/gotify.svg"
 		},
 		{
+			"name": "AriaNg",
+			"desc": "",
+			"href": "http://ariang.home.ip/",
+			"icon": "https://raw.githubusercontent.com/mayswind/AriaNg/master/src/tileicon.png"
+		},
+		{
 			"name": "Vaultwarden",
 			"desc": "",
 			"href": "https://vw.rul.sh",
