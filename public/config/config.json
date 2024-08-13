@@ -72,6 +72,12 @@
 			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/vaultwarden.svg"
 		},
 		{
+			"name": "SeaweedFS Filer",
+			"desc": "",
+			"href": "http://weed.home.ip/buckets/",
+			"icon": "https://raw.githubusercontent.com/seaweedfs/seaweedfs/master/note/seaweedfs.png"
+		},
+		{
 			"name": "Pi-hole",
 			"desc": "",
 			"href": "http://pi.hole/admin",
