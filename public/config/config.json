@@ -5,7 +5,7 @@
 		"icon": "img/icon.png",
 		"wallpaper": "img/gdt_xv_ma_yaauhi9_hUoR1tSITv.jpeg",
 		"wallpaper_dark": "img/gdt_xv_ma_yaauhi9_hUoR1tSITv.jpeg",
-		"dark_mode": true,
+		"dark_mode": false,
 		"open_new_tab": false,
 		"blur": true,
 		"animations": true
@@ -22,6 +22,12 @@
 			"desc": "",
 			"href": "http://ytdl.home.ip",
 			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/youtubedl.svg"
+		},
+		{
+			"name": "Youtube2MP3",
+			"desc": "",
+			"href": "https://yt2mp3.rul.sh",
+			"icon": "https://yt2mp3.rul.sh/apple-touch-icon.png"
 		},
 		{
 			"name": "Memos",
@@ -72,10 +78,10 @@
 			"icon": "https://github.com/walkxcode/dashboard-icons/raw/be82e22c418f5980ee2a13064d50f1483df39c8c/svg/vaultwarden.svg"
 		},
 		{
-			"name": "SeaweedFS Filer",
+			"name": "Garage WebUI",
 			"desc": "",
-			"href": "http://weed.home.ip/buckets/",
-			"icon": "https://raw.githubusercontent.com/seaweedfs/seaweedfs/master/note/seaweedfs.png"
+			"href": "http://home:3909",
+			"icon": "https://garagehq.deuxfleurs.fr/icons/apple-touch-icon.png"
 		},
 		{
 			"name": "Pi-hole",
@@ -136,6 +142,12 @@
 			"desc": "",
 			"href": "https://cockpit.local.rul.sh/",
 			"icon": "https://cockpit-project.org/images/favicon.png"
+		},
+		{
+			"name": "ProxmoxVE",
+			"desc": "",
+			"href": "https://pve.rul.sh/",
+			"icon": "https://www.proxmox.com/apple-touch-icon.png"
 		}
 	]
 }
