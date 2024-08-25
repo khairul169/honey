@@ -27,7 +27,7 @@
 			"name": "Youtube2MP3",
 			"desc": "",
 			"href": "http://yt2mp3.home.ip",
-			"icon": "http://yt2mp3.home.ip/apple-touch-icon.png"
+			"icon": "https://git.rul.sh/khairul169/Go-YT2MP3/raw/branch/main/ui/public/android-chrome-512x512.png"
 		},
 		{
 			"name": "Memos",
